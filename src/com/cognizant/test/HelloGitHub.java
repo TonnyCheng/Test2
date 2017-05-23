@@ -1,5 +1,7 @@
 package com.cognizant.test;
 
+import java.util.Date;
+
 public class HelloGitHub {
 
 	public static void main(String[] args) {
@@ -12,7 +14,8 @@ public class HelloGitHub {
 		
 		System.out.println("Hello 233 ");
 		
-
+		System.out.println(new Date());
+		
 	}
 
 }
